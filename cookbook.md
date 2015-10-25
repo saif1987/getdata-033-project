@@ -1,13 +1,13 @@
 #Tidy Data Variables 
-1.Activity_Name	1
+1.Activity_Name
 	a.Names of Different Activities
-				1. WALKING
-				2. WALKING_UPSTAIRS
-				3. WALKING_DOWNSTAIRS
-				4. SITTING
-				5. STANDING
-				6. LAYING
-2.Subject		2
+		1. WALKING
+		2. WALKING_UPSTAIRS
+		3. WALKING_DOWNSTAIRS
+		4. SITTING
+		5. STANDING
+		6. LAYING
+2.Subject
 	a. identifies the subject who performed the activity for each window sample
 	b. 1..30 Unique identifier assigned
 3.Other Colums
