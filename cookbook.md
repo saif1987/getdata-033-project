@@ -1,18 +1,18 @@
 #Tidy Data Variables 
-Activity_Name	1
-	Names of Different Activities
-				1 WALKING
-				2 WALKING_UPSTAIRS
-				3 WALKING_DOWNSTAIRS
-				4 SITTING
-				5 STANDING
-				6 LAYING
-Subject		2
-	identifies the subject who performed the activity for each window sample
-	1..30 Unique identifier assigned
-<Other Colums> 
+1.Activity_Name	1
+	a.Names of Different Activities
+				1. WALKING
+				2. WALKING_UPSTAIRS
+				3. WALKING_DOWNSTAIRS
+				4. SITTING
+				5. STANDING
+				6. LAYING
+2.Subject		2
+	a. identifies the subject who performed the activity for each window sample
+	b. 1..30 Unique identifier assigned
+3.Other Colums
 	
-		prefix 't' to denote time domain signal
+		>prefix 't' to denote time domain signal
 		'f' to indicate frequency domain signals
 		accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 		body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) 
